@@ -2,4 +2,4 @@
 
 Simulating evolution in python using a genetic algorithm.
 
-![An Example Output](./example.png)
+![An Example Output](./Example.png)
